@@ -1,6 +1,6 @@
 # Simplify
 
-**Simplify** is an iOS app and backend service that makes text easier to read for people with developmental language disorder (DLD), cognitive challenges, or anyone who prefers simpler language. It uses AI to automatically rewrite complex sentences into short, clear, and accessible text. The app also lets users capture a textual image and simplify the text it.
+**Simplify** is an iOS app and backend service that makes text easier to read for people with developmental language disorder (DLD), cognitive challenges, or anyone who prefers simpler language. It uses AI to automatically rewrite complex sentences into short, clear, and accessible text. The app also lets users capture a textual image and simplify the text.
 
 ## Features
 
